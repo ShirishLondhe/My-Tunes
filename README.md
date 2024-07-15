@@ -1,7 +1,13 @@
-[![Watch tutorial here](https://img.youtube.com/vi/ILmLjXtUllE/0.jpg)](https://youtu.be/ILmLjXtUllE)
+# Stylish Conference
 
-# Responsive Double Navbar with Logo & Icons in HTML & CSS (Flexbox Layout & Hamburger Menu) -- [Watch tutorial here](https://youtu.be/ILmLjXtUllE)
+<p >
+    <img src="/images/linkedin-layout-preview.png" > 
+</p>
 
-## Premium Courses
-[Professional CSS](https://bytegrad.com/courses/professional-css?n=g2) &
-[Professional JavaScript](https://bytegrad.com/courses/professional-javascript?n=g2)
+## Live Version
+
+**[Click here! :)](file:///D:/Major%20Projects/Hackathon%201.0/1.%20My%20Tunes/index.html)**
+
+## Project Overview
+
+A clone of LinkedIn's Home Page using pure CSS. Responsive layout was created using Flexbox, Grid and Media Queries.
