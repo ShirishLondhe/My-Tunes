@@ -1,7 +1,14 @@
-[![Watch tutorial here](https://img.youtube.com/vi/ILmLjXtUllE/0.jpg)](https://youtu.be/ILmLjXtUllE)
+# My Tunes
 
-# Responsive Double Navbar with Logo & Icons in HTML & CSS (Flexbox Layout & Hamburger Menu) -- [Watch tutorial here](https://youtu.be/ILmLjXtUllE)
+<p >
+    <img src="MyTunes_img1.png" ><br>
+    <img src="MyTunes_img2.png">
+</p>
 
-## Premium Courses
-[Professional CSS](https://bytegrad.com/courses/professional-css?n=g2) &
-[Professional JavaScript](https://bytegrad.com/courses/professional-javascript?n=g2)
+## Live Version
+
+<!-- **[Click here! :)](file:///D:/Major%20Projects/Hackathon%201.0/1.%20My%20Tunes/index.html)** -->
+
+## Project Overview
+
+A music website named "My Tunes" featuring seamless streaming, personalized playlists, and artist interaction. The site utilizes modern design principles and responsive layout techniques with Flexbox, Grid, and Media Queries.
