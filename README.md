@@ -1,7 +1,6 @@
-# My Tunes
-
 <p >
-    <img src="/images/linkedin-layout-preview.png" > 
+    <img src="MyTunes_img1.png" > 
+    <img src="MyTunes_img2.png">
 </p>
 
 ## Live Version
