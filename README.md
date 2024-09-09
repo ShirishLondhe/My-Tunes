@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyMusic Tunes
 
 MyMusic Tunes is a website designed to enhance your music experience. Whether you are looking to listen to songs, watch music videos, or purchase gift cards for your loved ones, MyMusic Tunes offers a clean, responsive design that works across devices. This project was developed using modern HTML, CSS, and JavaScript.
@@ -29,3 +30,20 @@ You can try Live Demo, [Click here :)]()
     <br><br>
     <img src="MyTunes_img3.png">
 </p>
+=======
+# My Tunes
+
+
+<p >
+    <img src="MyTunes_img1.png" > <br>
+    <img src="MyTunes_img2.png">
+</p>
+
+## Live Version
+
+<!-- **[Click here! :)](file:///D:/Major%20Projects/Hackathon%201.0/1.%20My%20Tunes/index.html)** -->
+
+## Project Overview
+
+A music website named "My Tunes" featuring seamless streaming, personalized playlists, and artist interaction. The site utilizes modern design principles and responsive layout techniques with Flexbox, Grid, and Media Queries.
+>>>>>>> 4161b95bfbf8352a6a78d11798358cc55ab4d8f2
